@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">About me<br><br>- ☕ Learning Java, Spring Boot and REST APIs<br>- 📊 Former Data & Automation intern at Vivo<br>- 🔄 Transitioning into back-end development<br>- 🎯 Open to IT internship opportunities<br>-</h3>
+<h3 align="left">About me<br><br>- ☕ Learning Java, Spring Boot and REST APIs<br>- 📊 Former Data & Automation intern at Vivo<br>- 🔄 Transitioning into back-end development<br>- 🎯 Open to IT internship opportunities<br></h3>
 
 ###
 
